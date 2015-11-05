@@ -148,7 +148,7 @@ public class ManusTestActivity extends ActionBarActivity implements ActionBar.On
         heSnaar = new SoundPool(1, AudioManager.STREAM_MUSIC, 0);
         heSnaarSlag = heSnaar.load(this, R.raw.he0, 1);
 
-        //creating mediaplayers
+        //creating mediaplayers /*test string*/
         /*Guitar1 = MediaPlayer.create(this, R.raw.e0);
         Guitar2 = MediaPlayer.create(this, R.raw.a0);
         Guitar3 = MediaPlayer.create(this, R.raw.d0);
